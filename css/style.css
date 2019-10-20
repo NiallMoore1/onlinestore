@@ -86,8 +86,8 @@ header .site-title {
  top:50%;  
 }
 
-.site-slider.slider-btn.prev,
-.site-slider.slider-btn.next{
+.site-slider .slider-btn .prev,
+.site-slider .slider-btn .next{
     background-color:var(--primary-color);
     padding: 1rem 1.5rem;
     border-radius:10rem;
