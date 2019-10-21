@@ -17,4 +17,5 @@ $(".slider-two")
     nextArrow:".site-slider-two.next",
     slidesToShow:5,
     slidesToShow:1
+    autoplaySpeed:3000
 });

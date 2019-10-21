@@ -164,3 +164,7 @@ border-radius:100%;
 .slider-two .slick-track .product:hover span{
   background-color:(--primary-color);
 }
+
+.hr{
+  border:1px dotted var(--border);
+}
