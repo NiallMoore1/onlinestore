@@ -8,3 +8,13 @@ $(".slider-one")
     prevArrow:".site-slider .slider-btn .prev",
     nextArrow:".site-slider .slider-btn .next"
 });
+
+/*second slider*/ 
+$(".slider-two")
+.not(".slick-intialized")
+.slick({
+    prevArrow:".site-slider-two.prev",
+    nextArrow:".site-slider-two.next",
+    slidesToShow:5,
+    slidesToShow:1
+});
