@@ -167,4 +167,20 @@ border-radius:100%;
 
 .hr{
   border:1px dotted var(--border);
-} b bbbbc
+}
+
+/*features section */
+.container .features{
+  padding:3rem 0;
+}
+
+.container .features h1{
+  font-family:var(--gugi);
+}
+
+.container .features p{
+  padding:0.5% 25%;
+  font-size:0.9em;
+}
+
+/*third slider*/
