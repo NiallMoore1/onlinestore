@@ -16,6 +16,19 @@ $(".slider-two")
     prevArrow:".site-slider-two.prev",
     nextArrow:".site-slider-two.next",
     slidesToShow:5,
-    slidesToShow:1
+    slidesToScroll:1,
     autoplaySpeed:3000
 });
+
+/*third slider*/ 
+$(".slider-three")
+.not(".slick-intialized")
+.slick({
+    prevArrow:".site-slider-three.prev",
+    nextArrow:".site-slider-three.next",
+    slidesToShow:4,
+    slidesToScroll:1,
+    autoplaySpeed:3000,
+    infinite:false
+});
+
