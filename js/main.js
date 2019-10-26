@@ -32,3 +32,14 @@ $(".slider-three")
     infinite:false
 });
 
+/*fourth slider*/ 
+$(".slider-four")
+.not(".slick-intialized")
+.slick({
+    prevArrow:".site-slider-four.prev",
+    nextArrow:".site-slider-four.next",
+    slidesToShow:4,
+    slidesToScroll:1,
+    autoplaySpeed:3000,
+    infinite:false
+});
