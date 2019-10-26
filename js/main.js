@@ -43,3 +43,16 @@ $(".slider-four")
     autoplaySpeed:3000,
     infinite:false
 });
+
+/*five slider*/ 
+$(".slider-five")
+.not(".slick-intialized")
+.slick({
+    prevArrow:"slider-brand.prev",
+    nextArrow:".slider-brand .next",
+    slidesToShow:6,
+    slidesToScroll:1,
+    autoplaySpeed:3000,
+    infinite:true
+});
+
