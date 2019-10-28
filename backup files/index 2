@@ -735,49 +735,6 @@
         </div>
       </div>
       <!--/brand-->
-
-      <!--our clints-->
-      <div class="container-fluid p-0">
-        <div class="slider-client">
-          <div class="slider-box text-center">
-            <h1 clall="pt-5 font-roboto">What Our Clients Say</h1>
-              <div class="slider-six">
-               <div>
-                 <p>
-                    Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                 </p>
-                 <h5 class="m-0">Joe Blogs</h5>
-                 <small class="pb-1">CEO Blogs LTD</small>
-               </div> 
-               <!--client 2-->
-               <div>
-                  <p>
-                     Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                  </p>
-                  <h5 class="m-0">Joe Murphy</h5>
-                  <small class="pb-1">CEO Murphys LTD</small>
-                </div>
-                <!--client 3-->
-                <div>
-                    <p>
-                       Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                    </p>
-                    <h5 class="m-0">Joe Joe</h5>
-                    <small class="pb-1">CEO JOE JOE LTD</small>
-                  </div>
-                  <!--client 4-->
-                  <div>
-                      <p>
-                         Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                      </p>
-                      <h5 class="m-0">Joe Whiskers</h5>
-                      <small class="pb-1">CEO WHISKERS LTD</small>
-                    </div>
-              </div>
-          </div>
-        </div>
-      </div>
-     <!--/our clints-->
  </main>
 
   <!--/main section-->
