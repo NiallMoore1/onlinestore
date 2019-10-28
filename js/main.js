@@ -1,3 +1,30 @@
+const breakpoint=[{
+    breakpoint:1280,
+    settings:{
+      slidesToShow:4  
+    }
+},
+{
+    breakpoint:1009,
+    settings:{
+        slidesToShow:3
+    }
+},
+{
+    breakpoint:720,
+    settings:{
+        slidesToShow:2
+    }
+},
+{
+    breakpoint:460,
+    settings:{
+        slidesToShow:1
+    }
+},
+]
+
+
 /*first slider*/ 
 $(".slider-one")
 .not(".slick-intialized")
@@ -17,7 +44,8 @@ $(".slider-two")
     nextArrow:".site-slider-two.next",
     slidesToShow:5,
     slidesToScroll:1,
-    autoplaySpeed:3000
+    autoplaySpeed:3000,
+    responsive:breakpoint
 });
 
 /*third slider*/ 
@@ -29,7 +57,8 @@ $(".slider-three")
     slidesToShow:4,
     slidesToScroll:1,
     autoplaySpeed:3000,
-    infinite:false
+    infinite:false,
+    responsive:breakpoint
 });
 
 /*fourth slider*/ 
@@ -41,7 +70,8 @@ $(".slider-four")
     slidesToShow:4,
     slidesToScroll:1,
     autoplaySpeed:3000,
-    infinite:false
+    infinite:false,
+    responsive:breakpoint
 });
 
 /*five slider*/ 
@@ -53,7 +83,8 @@ $(".slider-five")
     slidesToShow:6,
     slidesToScroll:1,
     autoplaySpeed:3000,
-    infinite:true
+    infinite:true,
+    responsive:breakpoint
 });
 
 /*six slider*/ 
